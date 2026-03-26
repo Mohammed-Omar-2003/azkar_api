@@ -25,6 +25,3 @@ You can fetch the data and integrate it into your frontend project easily.
 Example:
 
 fetch('/api/azkar')
-❤️ الهدف
-
-Providing easy access to authentic Azkar for developers and users to benefit from daily remembrance.
